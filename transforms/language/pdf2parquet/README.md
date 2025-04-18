@@ -11,10 +11,6 @@ for details on general project conventions, transform configuration,
 testing and IDE set up.
 
 
-## Contributors
-
-- Michele Dolfi (dol@zurich.ibm.com)
-
 
 ## Input files
 
