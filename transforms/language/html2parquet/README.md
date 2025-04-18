@@ -6,22 +6,6 @@
 
 This transform iterates through zipped collections of HTML files or single HTML files and generates Parquet files containing the extracted content, leveraging the [Trafilatura library](https://trafilatura.readthedocs.io/en/latest/usage-python.html) for extraction of text, tables, images, and other components.
 
----
-
-## Contributors
-
-- Sungeun An (sungeun.an@ibm.com)
-- Syed Zawad (szawad@ibm.com)
-
----
-
-## Date
-
-**Last updated:** 10/16/24  
-**Update details:** Enhanced table and image extraction features by adding the corresponding Trafilatura parameters.
-
----
-
 ## Input and Output
 
 ### Input
