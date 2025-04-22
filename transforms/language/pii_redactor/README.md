@@ -6,12 +6,6 @@ This transform redacts Personally Identifiable Information (PII) from the input 
 
 The transform leverages the [Microsoft Presidio SDK](https://microsoft.github.io/presidio/) for PII detection and uses the Flair recognizer for entity recognition.
 
-
-## Contributors
-
-- Sowmya.L.R (lrsowmya@gmail.com)
-
-
 ### Supported Entities
 
 The transform detects the following PII entities by default:
